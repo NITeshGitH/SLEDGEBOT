@@ -4,14 +4,21 @@ import json
 import logging
 from cogs.sledge_cog import SledgeCog
 import asyncio
+import os
+from dotenv import load_dotenv
+
+# Load environment variables
+load_dotenv()
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-# Read the bot token from the file
-with open('token.txt', 'r') as file:
-    TOKEN = file.read().strip()
+# Get token from environment variable
+TOKEN = os.getenv('DISCORD_TOKEN')
+if not TOKEN:
+    logger.error("No token found in environment variables!")
+    raise ValueError("Discord token not found")
 
 # Configure intents
 intents = discord.Intents.default()
