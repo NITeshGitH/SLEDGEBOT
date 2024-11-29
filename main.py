@@ -1,6 +1,5 @@
 import discord
 from discord.ext import commands
-import json
 import logging
 from cogs.sledge_cog import SledgeCog
 import asyncio

@@ -39,7 +39,7 @@ class SledgeCog(commands.Cog):
         if message.author.id == 1133475416338866276:
             content = message.content.lower()
 
-            if "**is out**" in content:
+            if "**IS OUT**" in content:
                 embed = discord.Embed(
                     description="Come on boys, let's rip through this tail",
                     color=discord.Color.random()
