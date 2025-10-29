@@ -6,26 +6,15 @@ import asyncio
 import os
 from dotenv import load_dotenv
 
-# Load environment variables
 load_dotenv()
 
-# Configure logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
-
-# Get token from environment variable
-TOKEN = os.getenv('DISCORD_TOKEN')
-if not TOKEN:
-    logger.error("No token found in environment variables!")
-    raise ValueError("Discord token not found")
-
-# Configure intents
 intents = discord.Intents.default()
 intents.message_content = True
 intents.guilds = True
 intents.members = True
 
-# Create bot instance
 class SledgeBot(commands.Bot):
     def __init__(self):
         super().__init__(
@@ -39,10 +28,10 @@ class SledgeBot(commands.Bot):
         logger.info("SledgeCog has been loaded")
 
     async def on_ready(self):
+        assert self.user is not None
         logger.info(f'Logged in as {self.user} (ID: {self.user.id})')
         logger.info('------')
-        
-        # Sync commands
+      
         try:
             logger.info("Starting command sync...")
             await self.tree.sync()
@@ -52,8 +41,12 @@ class SledgeBot(commands.Bot):
 
 bot = SledgeBot()
 
-# Run the bot
 async def main():
+    TOKEN = os.getenv('DISCORD_TOKEN')
+    if not TOKEN:
+        logger.error("No token found in environment variables!")
+        raise ValueError("Discord token not found")
+
     async with bot:
         try:
             await bot.start(TOKEN)
