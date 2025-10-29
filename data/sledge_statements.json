@@ -1,54 +1,230 @@
 {
     "batter": [
-        "If you got out on that one, you need to join back the school cricket academy mate",
-        "Bet you only play shots on easy pitches loser",
-        "You can't connect shit, better go knit clothes or something",
-        "If I had a career like yours, I'd kms",
-        "You got the balls to hit this for a six?",
-        "My grandma plays better with her walking stick",
-        "You call that batting? I've seen better technique in a kindergarten match",
-        "Your batting average is lower than your IQ, and that's saying something",
-        "You're so bad, even the bowling machine feels sorry for you",
-        "I've seen better footwork from a statue",
-        "Your bat looks heavier than your talent",
-        "You couldn't hit water if you fell out of a boat",
-        "Your technique belongs in a museum... of failures",
-        "Even a blind bat has better hand-eye coordination",
-        "Your batting makes Inzamam look like Usain Bolt",
-        "You're about as useful as a screen door on a submarine",
-        "I've seen better shots in a retirement home",
-        "Your career is deader than your footwork",
-        "You swing that bat like it's your first time holding a stick",
-        "Even your shadow has better timing than you",
-        "Your batting average is dropping faster than your dignity",
-        "You're so bad, even your bat wants a transfer",
-        "Your technique is more broken than your dreams of playing professionally",
-        "You make Chris Martin look like Don Bradman"
+        {
+            "text": "If you got out on that one, you need to join back the school cricket academy mate",
+            "gif": "https://raw.githubusercontent.com/WrestGit/gif/refs/heads/main/lol.gif"
+        },
+        {
+            "text": "Bet you only play shots on easy pitches loser",
+            "gif": "https://raw.githubusercontent.com/WrestGit/gif/refs/heads/main/lol.gif"
+        },
+        {
+            "text": "You can't connect shit, better go knit clothes or something",
+            "gif": "https://raw.githubusercontent.com/WrestGit/gif/refs/heads/main/lol.gif"
+        },
+        {
+            "text": "If I had a career like yours, I'd kms",
+            "gif": "https://raw.githubusercontent.com/WrestGit/gif/refs/heads/main/lol.gif"
+        },
+        {
+            "text": "You got the balls to hit this for a six?",
+            "gif": "https://raw.githubusercontent.com/WrestGit/gif/refs/heads/main/lol.gif"
+        },
+        {
+            "text": "My grandma plays better with her walking stick",
+            "gif": "https://raw.githubusercontent.com/WrestGit/gif/refs/heads/main/lol.gif"
+        },
+        {
+            "text": "You call that batting? I've seen better technique in a kindergarten match",
+            "gif": "https://raw.githubusercontent.com/WrestGit/gif/refs/heads/main/lol.gif"
+        },
+        {
+            "text": "Your batting average is lower than your IQ, and that's saying something",
+            "gif": "https://raw.githubusercontent.com/WrestGit/gif/refs/heads/main/lol.gif"
+        },
+        {
+            "text": "You're so bad, even the bowling machine feels sorry for you",
+            "gif": "https://raw.githubusercontent.com/WrestGit/gif/refs/heads/main/lol.gif"
+        },
+        {
+            "text": "I've seen better footwork from a statue",
+            "gif": "https://raw.githubusercontent.com/WrestGit/gif/refs/heads/main/lol.gif"
+        },
+        {
+            "text": "Your bat looks heavier than your talent",
+            "gif": "https://raw.githubusercontent.com/WrestGit/gif/refs/heads/main/lol.gif"
+        },
+        {
+            "text": "You couldn't hit water if you fell out of a boat",
+            "gif": "https://raw.githubusercontent.com/WrestGit/gif/refs/heads/main/lol.gif"
+        },
+        {
+            "text": "Your technique belongs in a museum... of failures",
+            "gif": "https://raw.githubusercontent.com/WrestGit/gif/refs/heads/main/lol.gif"
+        },
+        {
+            "text": "Even a blind bat has better hand-eye coordination",
+            "gif": "https://raw.githubusercontent.com/WrestGit/gif/refs/heads/main/lol.gif"
+        },
+        {
+            "text": "Your batting makes Inzamam look like Usain Bolt",
+            "gif": "https://raw.githubusercontent.com/WrestGit/gif/refs/heads/main/lol.gif"
+        },
+        {
+            "text": "You're about as useful as a screen door on a submarine",
+            "gif": "https://raw.githubusercontent.com/WrestGit/gif/refs/heads/main/lol.gif"
+        },
+        {
+            "text": "I've seen better shots in a retirement home",
+            "gif": "https://raw.githubusercontent.com/WrestGit/gif/refs/heads/main/lol.gif"
+        },
+        {
+            "text": "Your career is deader than your footwork",
+            "gif": "https://raw.githubusercontent.com/WrestGit/gif/refs/heads/main/lol.gif"
+        },
+        {
+            "text": "You swing that bat like it's your first time holding a stick",
+            "gif": "https://raw.githubusercontent.com/WrestGit/gif/refs/heads/main/lol.gif"
+        },
+        {
+            "text": "Even your shadow has better timing than you",
+            "gif": "https://raw.githubusercontent.com/WrestGit/gif/refs/heads/main/lol.gif"
+        },
+        {
+            "text": "Your batting average is dropping faster than your dignity",
+            "gif": "https://raw.githubusercontent.com/WrestGit/gif/refs/heads/main/lol.gif"
+        },
+        {
+            "text": "You're so bad, even your bat wants a transfer",
+            "gif": "https://raw.githubusercontent.com/WrestGit/gif/refs/heads/main/lol.gif"
+        },
+        {
+            "text": "Your technique is more broken than your dreams of playing professionally",
+            "gif": "https://raw.githubusercontent.com/WrestGit/gif/refs/heads/main/lol.gif"
+        },
+        {
+            "text": "You make Chris Martin look like Don Bradman",
+            "gif": "https://raw.githubusercontent.com/WrestGit/gif/refs/heads/main/lol.gif"
+        },
+        {
+            "text": "Are you batting with a toothpick? Hit the gym, mate.",
+            "gif": "https://raw.githubusercontent.com/WrestGit/gif/refs/heads/main/lol.gif"
+        },
+        {
+            "text": "The bowler's giving you a charity ball and you still can't hit it.",
+            "gif": "https://raw.githubusercontent.com/WrestGit/gif/refs/heads/main/lol.gif"
+        },
+        {
+            "text": "You're standing so far out of your crease, you're practically in the next postcode.",
+            "gif": "https://raw.githubusercontent.com/WrestGit/gif/refs/heads/main/lol.gif"
+        },
+        {
+            "text": "That shot was so bad, it should come with a trigger warning.",
+            "gif": "https://raw.githubusercontent.com/WrestGit/gif/refs/heads/main/lol.gif"
+        }
     ],
     "bowler": [
-        "My kids bowl better than you!",
-        "The only bowling skill you have is shining it with a sandpaper",
-        "Dinda academy or wot?",
-        "You talk faster than you bowl",
-        "Your bowling is so slow, snails are asking for a head start",
-        "I've seen better lines at a kindergarten drawing class",
-        "Your action is more questionable than your talent",
-        "You couldn't hit the pitch if it was the size of an ocean",
-        "Your bowling is perfect... for batting practice",
-        "Even a vending machine has better accuracy",
-        "Your run-up is longer than your list of wickets",
-        "You're making the batsman look good... and that's hard to do",
-        "Your bowling is so predictable, even the stumps are bored",
-        "You couldn't spin it if you were on a merry-go-round",
-        "Your bowling is more wayward than a drunk GPS",
-        "You're leaking more runs than a broken tap",
-        "Your bowling figures look like a phone number",
-        "Even a toddler could smash your bowling",
-        "Your bowling makes part-timers look like Dale Steyn",
-        "You're about as threatening as a wet paper bag",
-        "Your economy rate is higher than Mount Everest",
-        "You bowl like you're afraid of the ball",
-        "Your bowling action is more suspicious than your talent",
-        "You make Jade Dernbach look like Glenn McGrath"
+        {
+            "text": "My kids bowl better than you!",
+            "gif": "https://raw.githubusercontent.com/WrestGit/gif/refs/heads/main/lol.gif"
+        },
+        {
+            "text": "The only bowling skill you have is shining it with a sandpaper",
+            "gif": "https://raw.githubusercontent.com/WrestGit/gif/refs/heads/main/lol.gif"
+        },
+        {
+            "text": "Dinda academy or wot?",
+            "gif": "https://raw.githubusercontent.com/WrestGit/gif/refs/heads/main/lol.gif"
+        },
+        {
+            "text": "You talk faster than you bowl",
+            "gif": "https://raw.githubusercontent.com/WrestGit/gif/refs/heads/main/lol.gif"
+        },
+        {
+            "text": "Your bowling is so slow, snails are asking for a head start",
+            "gif": "https://raw.githubusercontent.com/WrestGit/gif/refs/heads/main/lol.gif"
+        },
+        {
+            "text": "I've seen better lines at a kindergarten drawing class",
+            "gif": "https://raw.githubusercontent.com/WrestGit/gif/refs/heads/main/lol.gif"
+        },
+        {
+            "text": "Your action is more questionable than your talent",
+            "gif": "https://raw.githubusercontent.com/WrestGit/gif/refs/heads/main/lol.gif"
+        },
+        {
+            "text": "You couldn't hit the pitch if it was the size of an ocean",
+            "gif": "https://raw.githubusercontent.com/WrestGit/gif/refs/heads/main/lol.gif"
+        },
+        {
+            "text": "Your bowling is perfect... for batting practice",
+            "gif": "https://raw.githubusercontent.com/WrestGit/gif/refs/heads/main/lol.gif"
+        },
+        {
+            "text": "Even a vending machine has better accuracy",
+            "gif": "https://raw.githubusercontent.com/WrestGit/gif/refs/heads/main/lol.gif"
+        },
+        {
+            "text": "Your run-up is longer than your list of wickets",
+            "gif": "https://raw.githubusercontent.com/WrestGit/gif/refs/heads/main/lol.gif"
+        },
+        {
+            "text": "You're making the batsman look good... and that's hard to do",
+            "gif": "https://raw.githubusercontent.com/WrestGit/gif/refs/heads/main/lol.gif"
+        },
+        {
+            "text": "Your bowling is so predictable, even the stumps are bored",
+            "gif": "https://raw.githubusercontent.com/WrestGit/gif/refs/heads/main/lol.gif"
+        },
+        {
+            "text": "You couldn't spin it if you were on a merry-go-round",
+            "gif": "https://raw.githubusercontent.com/WrestGit/gif/refs/heads/main/lol.gif"
+        },
+        {
+            "text": "Your bowling is more wayward than a drunk GPS",
+            "gif": "https://raw.githubusercontent.com/WrestGit/gif/refs/heads/main/lol.gif"
+        },
+        {
+            "text": "You're leaking more runs than a broken tap",
+            "gif": "https://raw.githubusercontent.com/WrestGit/gif/refs/heads/main/lol.gif"
+        },
+        {
+            "text": "Your bowling figures look like a phone number",
+            "gif": "https://raw.githubusercontent.com/WrestGit/gif/refs/heads/main/lol.gif"
+        },
+        {
+            "text": "Even a toddler could smash your bowling",
+            "gif": "https://raw.githubusercontent.com/WrestGit/gif/refs/heads/main/lol.gif"
+        },
+        {
+            "text": "Your bowling makes part-timers look like Dale Steyn",
+            "gif": "https://raw.githubusercontent.com/WrestGit/gif/refs/heads/main/lol.gif"
+        },
+        {
+            "text": "You're about as threatening as a wet paper bag",
+            "gif": "https://raw.githubusercontent.com/WrestGit/gif/refs/heads/main/lol.gif"
+        },
+        {
+            "text": "Your economy rate is higher than Mount Everest",
+            "gif": "https://raw.githubusercontent.com/WrestGit/gif/refs/heads/main/lol.gif"
+        },
+        {
+            "text": "You bowl like you're afraid of the ball",
+            "gif": "https://raw.githubusercontent.com/WrestGit/gif/refs/heads/main/lol.gif"
+        },
+        {
+            "text": "Your bowling action is more suspicious than your talent",
+            "gif": "https://raw.githubusercontent.com/WrestGit/gif/refs/heads/main/lol.gif"
+        },
+        {
+            "text": "You make Jade Dernbach look like Glenn McGrath",
+            "gif": "https://raw.githubusercontent.com/WrestGit/gif/refs/heads/main/lol.gif"
+        },
+        {
+            "text": "Is that your run-up or are you just jogging to the shops?",
+            "gif": "https://raw.githubusercontent.com/WrestGit/gif/refs/heads/main/lol.gif"
+        },
+        {
+            "text": "You're bowling so many wides, the umpire's arms are getting tired.",
+            "gif": "https://raw.githubusercontent.com/WrestGit/gif/refs/heads/main/lol.gif"
+        },
+        {
+            "text": "That delivery was slower than a week in jail.",
+            "gif": "https://raw.githubusercontent.com/WrestGit/gif/refs/heads/main/lol.gif"
+        },
+        {
+            "text": "You've got less swing than a broken playground.",
+            "gif": "https://raw.githubusercontent.com/WrestGit/gif/refs/heads/main/lol.gif"
+        }
     ]
 } 
